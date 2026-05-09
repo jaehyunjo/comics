@@ -2,18 +2,31 @@
 
 학습용 만화 콘텐츠를 모아 두는 저장소입니다.
 
-## 목차
+## 중2 수학 2-2 · 도형의 닮음 학습만화
 
-- [중2 수학 2-2 · 도형의 닮음 학습만화](middle-school-math/geometry-similarity/)
+GitHub에서 바로 볼 수 있도록 Markdown에 이미지로 정리했습니다.
 
-## 로컬에서 보기
+### 1화: 도형의 닮음 완전정복
 
-```bash
-open index.html
-```
+![1화 도형의 닮음 완전정복](middle-school-math/geometry-similarity/manga-pages/01-page1.png)
 
-또는 직접 열기:
+### 2화: 삼각형 닮음 조건 3총사
 
-```bash
-open middle-school-math/geometry-similarity/index.html
-```
+![2화 삼각형 닮음 조건](middle-school-math/geometry-similarity/manga-pages/02-page2.png)
+
+### 3화: 평행선과 선분의 길이의 비
+
+![3화 평행선과 선분의 길이의 비](middle-school-math/geometry-similarity/manga-pages/03-page3.png)
+
+### 4화: 닮음의 활용
+
+![4화 닮음의 활용](middle-school-math/geometry-similarity/manga-pages/04-page4.png)
+
+### 추가 보존본: 첫 생성 시안
+
+![추가 보존본 첫 생성 시안](middle-school-math/geometry-similarity/manga-pages/00-extra-first-draft.png)
+
+## 폴더
+
+- [중학교 수학 학습만화](middle-school-math/)
+- [도형의 닮음 단원](middle-school-math/geometry-similarity/)
