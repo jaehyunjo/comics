@@ -2,6 +2,14 @@
 
 학습용 만화 콘텐츠를 모아 두는 저장소입니다.
 
+## 수한이와 수인이의 중2 수학 2학기 대모험
+
+실사풍 일본 만화 스타일의 중2 2학기 전체 수학 개념 만화 1차분입니다.
+
+[전체 보기](middle-school-math/grade8-semester2-concept-manga/)
+
+![수한이와 수인이의 중2 수학 2학기 대모험 표지](middle-school-math/grade8-semester2-concept-manga/pages/00-cover.png)
+
 ## 중2 수학 2-2 · 도형의 닮음 학습만화
 
 GitHub에서 바로 볼 수 있도록 Markdown에 이미지로 정리했습니다.
